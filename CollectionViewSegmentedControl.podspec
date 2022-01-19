@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
-  s.source_files = 'CollectionViewSegmentedControl/Source/**/*.swift'
+  s.source_files = 'CollectionViewSegmentedControl/Source/*.swift'
   
   # s.resource_bundles = {
   #   'CollectionViewSegmentedControl' => ['CollectionViewSegmentedControl/Assets/*.png']
