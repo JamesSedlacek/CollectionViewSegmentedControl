@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/platform-iOS-lightgrey.svg" alt="platform iOS badge" />
   <img src="https://img.shields.io/badge/license-MIT-black.svg" alt="license MIT badge" /> 
   <br><br>
+  
+  <img src="https://github.com/JamesSedlacek/CollectionViewSegmentedControl/blob/master/CollectionViewSegmentedControl/Assets/Demo.gif?raw=true">
+  <br>
 </div>
 
 ## Installation
@@ -54,7 +57,7 @@ pod 'CollectionViewSegmentedControl'
 ## Contribution
 Want to contribute? Here's what's on the TODO list:<br>
 
-- [ ] GIF Example
+- [x] GIF Example
 - [ ] Usage Images 
 - [ ] Banner Image 
 - [ ] Documentation
