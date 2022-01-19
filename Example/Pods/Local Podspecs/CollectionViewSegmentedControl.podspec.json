@@ -1,0 +1,22 @@
+{
+  "name": "CollectionViewSegmentedControl",
+  "version": "0.1.0",
+  "summary": "A short description of CollectionViewSegmentedControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JamesSedlacek/CollectionViewSegmentedControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JamesSedlacek": "jsedlacekjr@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/JamesSedlacek/CollectionViewSegmentedControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CollectionViewSegmentedControl/Classes/**/*"
+}

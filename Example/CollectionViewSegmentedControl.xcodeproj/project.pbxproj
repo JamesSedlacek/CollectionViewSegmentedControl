@@ -40,12 +40,12 @@
 		607FACE51AFB9204008FA782 /* CollectionViewSegmentedControl_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CollectionViewSegmentedControl_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		687AC1D0F0A1B29554E5637F /* CollectionViewSegmentedControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CollectionViewSegmentedControl.podspec; path = ../CollectionViewSegmentedControl.podspec; sourceTree = "<group>"; };
+		687AC1D0F0A1B29554E5637F /* CollectionViewSegmentedControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CollectionViewSegmentedControl.podspec; path = ../CollectionViewSegmentedControl.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93BAB78D17D02008EA7B23D3 /* Pods-CollectionViewSegmentedControl_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CollectionViewSegmentedControl_Tests.debug.xcconfig"; path = "Target Support Files/Pods-CollectionViewSegmentedControl_Tests/Pods-CollectionViewSegmentedControl_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9F4F23B2A7C348FE3C894012 /* Pods-CollectionViewSegmentedControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CollectionViewSegmentedControl_Example.debug.xcconfig"; path = "Target Support Files/Pods-CollectionViewSegmentedControl_Example/Pods-CollectionViewSegmentedControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		9F902D12D171D1024B6D8D5D /* Pods-CollectionViewSegmentedControl_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CollectionViewSegmentedControl_Tests.release.xcconfig"; path = "Target Support Files/Pods-CollectionViewSegmentedControl_Tests/Pods-CollectionViewSegmentedControl_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		A35C3FC2AECCFC331ED0B053 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		C999EF55138D49C4DBEDFD31 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A35C3FC2AECCFC331ED0B053 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C999EF55138D49C4DBEDFD31 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D1E3ABA45EB815DA3C478AD2 /* Pods_CollectionViewSegmentedControl_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CollectionViewSegmentedControl_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -147,7 +147,6 @@
 				93BAB78D17D02008EA7B23D3 /* Pods-CollectionViewSegmentedControl_Tests.debug.xcconfig */,
 				9F902D12D171D1024B6D8D5D /* Pods-CollectionViewSegmentedControl_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
