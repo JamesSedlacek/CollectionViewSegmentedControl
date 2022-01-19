@@ -1,0 +1,6 @@
+framework module Pods_CollectionViewSegmentedControl_Tests {
+  umbrella header "Pods-CollectionViewSegmentedControl_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

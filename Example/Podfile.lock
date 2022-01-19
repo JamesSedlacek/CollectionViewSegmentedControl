@@ -1,0 +1,16 @@
+PODS:
+  - CollectionViewSegmentedControl (0.1.0)
+
+DEPENDENCIES:
+  - CollectionViewSegmentedControl (from `../`)
+
+EXTERNAL SOURCES:
+  CollectionViewSegmentedControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CollectionViewSegmentedControl: 054bc07daa7ee8717bab2f4b97270956a5c4c8e4
+
+PODFILE CHECKSUM: dbc462275646707838bab1992152c7c732062d74
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module CollectionViewSegmentedControl {
+  umbrella header "CollectionViewSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
