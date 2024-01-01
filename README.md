@@ -37,7 +37,15 @@ pod 'CollectionViewSegmentedControl'
 <details>
   <summary><strong>Swift Package Manager</strong></summary>
   <br>
-  Coming Soon!
+ 
+1. In Xcode, select "File" > "Add Package Dependencies".
+2. Copy & paste the following into the "Search or Enter Package URL" search bar.
+```
+https://github.com/JamesSedlacek/CollectionViewSegmentedControl.git
+```
+4. Xcode will fetch the repository & the "CollectionViewSegmentedControl" library will be added to your project.
+
+
   <br>
 </details>
 
@@ -64,7 +72,7 @@ Want to contribute? Here's what's on the TODO list:<br>
 - [ ] Unit Tests
 - [ ] Programmatic UIKit initializer
 - [ ] Programmatic Customization Code Snippet
-- [ ] SPM Support
+- [x] SPM Support
 - [ ] Carthage Support
 - [ ] SwiftUI Support
 
